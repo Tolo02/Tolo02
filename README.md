@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Tolo02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Physics 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Giorgio Tolomelli | Cosmologist *in fieri*
 
-<!---
-Tolo02/Tolo02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Scientific Objective
+I am an undergraduate physicist at the University of Genoa currently working on my Master's degree thesis.  
+
+## Computational Architecture
+I construct and execute reproducible, high-fidelity data pipelines. My computational environment is strictly anchored in Free or at least Open-Source Software.
+
+* **Operating System:** Debian GNU/Linux (GNOME desktop environment).
+* **Core Editor:** Vim for playing and unfortunatly VS Code for working.
+* **Languages:** I love `C` and `C++` espcially, I like `Python` and I can read `Fortran`. Willing or unwilling English is the programming language I use the most.  
+* **Environment Management:** I use conda.
+
+## Featured Research Architecture
+* **[ThesisCode](https://github.com/Tolo02/ThesisCode):** #TODO.
+
+## Cryptographic Key & Contact
+* **Email:** [giorgio.tolomelli@libero.it]
+* **GPG Public Key:** [#TODO]
