@@ -12,7 +12,7 @@ I construct and execute reproducible, high-fidelity data pipelines. My computati
 * **Environment Management:** I use conda.
 
 ## Featured Research Architecture
-* **[ThesisCode](https://github.com/Tolo02/ThesisCode):** #TODO.
+* **[EoRcode](https://github.com/Tolo02/EoRcode):** #TODO.
 
 ## Cryptographic Key & Contact
 * **Email:** [giorgio.tolomelli@libero.it]
